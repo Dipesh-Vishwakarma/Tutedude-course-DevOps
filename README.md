@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Basic Assignment
 
 A beginner-friendly Python project demonstrating fundamental Python concepts such as variables, functions, `if / elif / else` statements, `while` and `for` loops, dictionaries, user input, file handling (`open()`, `write()`, `read()`), basic error handling (`try / except`), and code comments.
@@ -76,7 +75,3 @@ python_basic_assignment/
 └── data/
     └── sample.txt
 ```
-=======
-# Tutedude-course-DevOps
-This is Tutedude DevOps Beginner Course Hands-on demos projects
->>>>>>> b4ec2682e01d1516ca30eb1fe9091e1a3d2260a3
