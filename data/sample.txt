@@ -1,0 +1,2 @@
+Hello, this is my Python file handling assignment.
+This file was created using Python.
